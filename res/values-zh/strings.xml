@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">猜數字</string>
+    <string name="user_guess">你猜的數字</string>
+	<string name="guess">猜</string>
+	<string name="msg">訊息</string>
+	<string name="new_game">開新局</string>
+	<string name="answer">答案</string>        
+</resources>

@@ -1,6 +1,11 @@
 <resources>
 
     <string name="app_name">NumGuess</string>
+    <string name="user_guess">Your Guess</string>
+	<string name="guess">Guess</string>
+	<string name="msg">Message</string>
+	<string name="new_game">New Game</string>
+	<string name="answer">Answer</string>
 
 	<string-array name="max_digits">
 	    <item>2</item>
@@ -11,6 +16,7 @@
 		<item>7</item>
 		<item>8</item>
 		<item>9</item>
+		<item>10</item>
 	</string-array>
 
 </resources>

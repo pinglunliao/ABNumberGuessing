@@ -13,7 +13,7 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Your Guess:"
+        android:text="@string/user_guess"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <EditText
@@ -30,25 +30,25 @@
         android:id="@+id/guessBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Guess" />
+        android:text="@string/guess" />
 
     <TextView
         android:id="@+id/guessResultTxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Msg"
+        android:text="@string/msg"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <TextView
         android:id="@+id/answerTxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Answer:" />
+        android:text="@string/answer" />
 
     <Button
         android:id="@+id/newGameBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Game" />
+        android:text="@string/new_game" />
 
 </LinearLayout>
